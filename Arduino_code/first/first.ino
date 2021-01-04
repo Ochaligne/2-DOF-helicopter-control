@@ -176,7 +176,7 @@ switch (page_counter) {
     }
     break;
 
-     case 4: {   //Design of page 3 
+     case 4: {   //Design of page 4 
      lcd.setCursor(0,0);
      lcd.print("This is pos 3");
      lcd.setCursor(1,1);
@@ -184,7 +184,7 @@ switch (page_counter) {
     }
     break;
 
-     case 5: {   //Design of page 3 
+     case 5: {   //Design of page 5 
      lcd.setCursor(0,0);
      lcd.print("This is pos 4");
      lcd.setCursor(1,1);
@@ -192,7 +192,7 @@ switch (page_counter) {
     }
     break;
 
-     case 6: {   //Design of page 3 
+     case 6: {   //Design of page 6 
      lcd.setCursor(0,0);
      lcd.print("This is pos 5");
      lcd.setCursor(1,1);
@@ -200,7 +200,7 @@ switch (page_counter) {
     }
     break;
 
-     case 7: {   //Design of page 3 
+     case 7: {   //Design of page 7 
      lcd.setCursor(0,0);
      lcd.print("This is pos 6");
      lcd.setCursor(1,1);
@@ -208,7 +208,7 @@ switch (page_counter) {
     }
     break;
 
-     case 8: {   //Design of page 3 
+     case 8: {   //Design of page 8 
      lcd.setCursor(0,0);
      lcd.print("This is pos 7");
      lcd.setCursor(1,1);
@@ -216,11 +216,11 @@ switch (page_counter) {
     }
     break;
 
-    case 9: {   //Design of page 3 
+    case 9: {   //Design of page 9 
      lcd.setCursor(0,0);
      lcd.print("Automode");
      lcd.setCursor(1,1);
-     lcd.print("RUNING");
+     lcd.print("RUNING..");
     }
     break;
 
